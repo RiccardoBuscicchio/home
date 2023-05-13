@@ -7,7 +7,7 @@
       <div class="tc-l pv4 pv6-l ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
           {{ if eq .Params.custom_title_enabled true }}
-              {{ .Params.custom_title_value }}
+              {{ .Params.custom_title_value | default .Site.Title }}
             {{ else }}
               {{ .Title | default .Site.Title}}
             {{ end }}

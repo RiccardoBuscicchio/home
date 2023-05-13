@@ -1,4 +1,4 @@
-baseURL = 'http://www.riccardobuscicchio.com/'
+baseURL = 'https://www.riccardobuscicchio.com/'
 languageCode = 'en-us'
 title = 'Riccardo Buscicchio'
 theme = 'ananke'

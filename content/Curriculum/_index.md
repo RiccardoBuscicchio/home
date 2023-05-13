@@ -1,5 +1,5 @@
 ---
-title: "Curriculum"
+title: "Curriculum Vitæ"
 description: "My curriculum."
 featured_image: '/images/back.jpg'
 menu:

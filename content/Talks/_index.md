@@ -2,7 +2,9 @@
 title: "Talks"
 description: "A list of my talks."
 featured_image: '/images/paint.jpg'
-menu:
+custom_title_enabled: False
+custom_title_value: Talks
+menu: 
   main:
     weight: 1
 ---

@@ -1,5 +1,5 @@
 baseURL = 'https://www.riccardobuscicchio.com/'
-title = 'Riccardo Buscicchio'
+title = 'Home'
 theme = 'ananke'
 languageCode = "en-us"
 resourceDir = "./resources"
@@ -8,10 +8,11 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+copyright = "All rights reserved"
 
 [languages]
   [languages.en]
-    title = "Riccardo Buscicchio"
+    title = "Home"
     weight = 1
     contentDir = "content/"
 
@@ -35,11 +36,14 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/chionatan"
+color = "#117a65" 
 
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/riccardobuscicchio/"
+color = "#117a65" 
 
 [[params.ananke_socials]]
 name = "github"
 url = "https://www.github.com/RiccardoBuscicchio/"
+color = "#117a65" 

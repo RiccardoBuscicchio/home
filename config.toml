@@ -26,10 +26,9 @@ enableRobotsTXT = true
   author = "Riccardo Buscicchio"
   favicon = ""
   site_logo = "Homepage"
-  description = "My personal webpage"
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  description = "My personal website"
   background_color_class = "bg-green"
-  body_classes = "georgia bg-near-white"
+  body_classes = "avenir bg-near-white"
   recent_posts_number = 3
   date_format = "2023 December 12"
 

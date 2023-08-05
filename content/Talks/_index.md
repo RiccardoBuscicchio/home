@@ -1,6 +1,6 @@
 ---
 title: "Talks"
-description: "A list of my talks."
+description: "A list of my conference talks and invited seminars."
 featured_image: '/images/paint.jpg'
 custom_title_enabled: False
 custom_title_value: Talks

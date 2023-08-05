@@ -8,3 +8,7 @@ menu:
   main:
     weight: 1
 ---
+
+An up-to-date curriculum is available [here](https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/CV.pdf).
+
+A shorter version is available [here](https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/CVshort.pdf).

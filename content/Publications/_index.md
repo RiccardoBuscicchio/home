@@ -3,7 +3,7 @@ title: "Publications"
 description: "A list of my publications."
 featured_image: '/images/cat.jpg'
 custom_title_enabled: False
-custom_title_value: Publications
+custom_title_value: Publications and preprints
 menu:
   main:
     weight: 1

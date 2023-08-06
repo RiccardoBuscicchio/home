@@ -12,8 +12,8 @@
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
           {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-            <a class="f10 no-underline ba  bw1 pv2 mb2 ph3 white-90 hover-bg-dark-green" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+          <li class="list f5 f4-ns fw4 pv3 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <a class="hover-white ph2 pv2 ba no-underline hover-bg-dark-green white-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
               {{ .Name }}
             </a>
           </li>

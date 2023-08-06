@@ -1,0 +1,6 @@
+{{- /* layouts/shortcodes/button.html */ -}}
+{{ $buttonText := .Get "button_text" }}
+{{ $linkTarget := .Get "link_target" }}
+<div class="ph3 mb4">
+    <a class="f6 grow no-underline br-pill ba bw2 ph3 pv2 mb2 dib dark-green" href="{{ $linkTarget }}">{{ $buttonText }}</a>
+</div>

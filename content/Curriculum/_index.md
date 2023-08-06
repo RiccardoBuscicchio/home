@@ -10,4 +10,5 @@ menu:
 ---
 
 An up-to-date curriculum is available {{< button button_text="here" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/CV.pdf" >}}
+
 A shorter version is available {{< button button_text="here" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/CVshort.pdf" >}}

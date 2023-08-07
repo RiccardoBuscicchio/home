@@ -1,6 +1,6 @@
 ---
-title: "Portfolio"
-description: "A portfolio of my renderings."
+title: "Outreach"
+description: "A portfolio of my renderings for outreach and public-engagement purposes."
 featured_image: '/images/sculpt.jpg'
 custom_title_enabled: False
 custom_title_value: Renderings
@@ -8,3 +8,4 @@ menu:
   main:
     weight: 1
 ---
+

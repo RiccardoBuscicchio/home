@@ -1,6 +1,6 @@
 ---
 title: "Curriculum"
-description: "Comparison is the thief of joy.” — T. Roosevelt"
+description: ""Comparison is the thief of joy.” — T. Roosevelt"
 featured_image: '/images/curriculum.jpg'
 custom_title_enabled: False
 custom_title_value: Curriculum Vitae

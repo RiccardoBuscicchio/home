@@ -9,6 +9,8 @@ menu:
     weight: 1
 ---
 
-An up-to-date curriculum is available {{< button button_text="here" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/CV.pdf" >}}
+An up-to-date curriculum is available in {{< button button_text="English" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/CV.pdf" >}} and {{< button button_text="Italian" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build_ita/CV.pdf" >}}
 
-A shorter version is available {{< button button_text="here" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/CVshort.pdf" >}}
+A shorter version is available in {{< button button_text="English" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/CVshort.pdf" >}} and {{< button button_text="Italian" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build_ita/CVshort.pdf" >}}
+
+

@@ -9,4 +9,6 @@ menu:
     weight: 1
 ---
 
-An up-to-date publication list is available {{< button button_text="here" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/publist.pdf" >}}
+An up-to-date publication list is available in {{< button button_text="english" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/publist.pdf" >}}
+{{< button button_text="ItaLian (experimental)"
+link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build_ita/publist.pdf" >}}

@@ -10,4 +10,4 @@ menu:
 ---
 
 An up-to-date list of talks is available in {{< button button_text="English" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/talklist.pdf" >}}
-{{< button="Italian (experimental)" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build_ita/talklist.pdf">}}
+{{< button button_text="Italian (experimental)" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build_ita/talklist.pdf">}}

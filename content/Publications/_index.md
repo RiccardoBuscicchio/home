@@ -10,5 +10,5 @@ menu:
 ---
 
 An up-to-date publication list is available in {{< button button_text="english" link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build/publist.pdf" >}}
-{{< button button_text="ItaLian (experimental)"
+{{< button button_text="Italian (experimental)"
 link_target="https://raw.githubusercontent.com/RiccardoBuscicchio/CV/build_ita/publist.pdf" >}}

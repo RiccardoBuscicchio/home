@@ -14,4 +14,4 @@ Contact me at my {{< button button_text="email" link_target="mailto:riccardo.bus
 Alternatively, come and find me at the 
 
 *Gran Sasso Science Institute, Zenith Building (ex-INPS), Ground floor, Office PT-10* 
-{{< button button_text="Gmaps" link_target="https://goo.gl/maps/41aZh5xB49fgygxD6">}}
+{{< button button_text="Gmaps" link_target="https://maps.app.goo.gl/bBAcKryJqGjuE26G8">}}

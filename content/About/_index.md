@@ -9,7 +9,7 @@ menu:
     weight: 1
 ---
 
-Contact me at my {{< button button_text="email" link_target="mailto:riccardo.buscicchio@unimib.it" >}}
+Contact me at my {{< button button_text="email" link_target="mailto:riccardo.buscicchio@gssi.it" >}}
 
 Alternatively, come and find me at the 
 
